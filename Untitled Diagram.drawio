@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T08:13:36.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="9WyMj6ao654Ag42J6nRA" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T03:46:43.623Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="l7BTHVu6WX3m_6VYkH_q" version="16.2.4" type="github">
   <diagram id="Qz1s9SNeP7v2p1puwppg" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -44,22 +44,22 @@
           <mxGeometry x="1020" y="135" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sKu4yoeBNKB5ariSwKYG-23" value="测试目的及方法" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="250" width="700" height="574" as="geometry" />
+          <mxGeometry x="40" y="250" width="700" height="697" as="geometry" />
         </mxCell>
         <mxCell id="sKu4yoeBNKB5ariSwKYG-24" value="版本稳定性" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-23">
           <mxGeometry y="40" width="700" height="107" as="geometry" />
         </mxCell>
         <mxCell id="sKu4yoeBNKB5ariSwKYG-25" value="目的" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=30;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-24">
-          <mxGeometry x="40" width="166" height="107" as="geometry">
-            <mxRectangle width="166" height="107" as="alternateBounds" />
+          <mxGeometry x="40" width="160" height="107" as="geometry">
+            <mxRectangle width="160" height="107" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sKu4yoeBNKB5ariSwKYG-45" value="版本能接受大规模测试，不会出现崩溃等情况；日志记录无问题" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-25">
-          <mxGeometry y="30" width="120" height="70" as="geometry" />
+          <mxGeometry y="30" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sKu4yoeBNKB5ariSwKYG-26" value="需求" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=30;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-24">
-          <mxGeometry x="206" width="164" height="107" as="geometry">
-            <mxRectangle width="164" height="107" as="alternateBounds" />
+          <mxGeometry x="200" width="170" height="107" as="geometry">
+            <mxRectangle width="170" height="107" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sKu4yoeBNKB5ariSwKYG-48" value="1. PCU和DAU要求&lt;br&gt;2. 联机类玩法测试" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-26">
@@ -81,96 +81,316 @@
         <mxCell id="sKu4yoeBNKB5ariSwKYG-88" value="1. 服务器承载报告，bug及crash解决&lt;br&gt;2. 游戏日志验收报告" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-67">
           <mxGeometry y="30" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="sKu4yoeBNKB5ariSwKYG-28" value="前期心流" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-23">
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-28" value="前期心流" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;align=center;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-23">
           <mxGeometry y="147" width="700" height="106" as="geometry" />
         </mxCell>
         <mxCell id="sKu4yoeBNKB5ariSwKYG-29" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-28">
-          <mxGeometry x="40" width="166" height="106" as="geometry">
-            <mxRectangle width="166" height="106" as="alternateBounds" />
+          <mxGeometry x="40" width="160" height="106" as="geometry">
+            <mxRectangle width="160" height="106" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-90" value="新手流程调优，提升前期转化同时进行玩法教学" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-29">
+          <mxGeometry width="160" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="sKu4yoeBNKB5ariSwKYG-30" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-28">
-          <mxGeometry x="206" width="164" height="106" as="geometry">
-            <mxRectangle width="164" height="106" as="alternateBounds" />
+          <mxGeometry x="200" width="170" height="106" as="geometry">
+            <mxRectangle width="170" height="106" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-92" value="1. 品类用户、非品类用户、IP/非IP用户（若有IP）&lt;br&gt;2. 完善的新手前期体验" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-30">
+          <mxGeometry width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="sKu4yoeBNKB5ariSwKYG-31" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-28">
           <mxGeometry x="370" width="166" height="106" as="geometry">
             <mxRectangle width="166" height="106" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-93" value="1. 现场CE + 问卷调研&lt;br&gt;2. 线上小规模测试，仅针对前期体验" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-31">
+          <mxGeometry width="160" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="sKu4yoeBNKB5ariSwKYG-68" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-28">
           <mxGeometry x="536" width="164" height="106" as="geometry">
             <mxRectangle width="164" height="106" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-104" value="1. 前期流程难度心流曲线，设计是否合理&lt;br&gt;2. 玩家调研结果产出，前期流程问题" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-68">
+          <mxGeometry width="160" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="sKu4yoeBNKB5ariSwKYG-32" value="玩法验证" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-23">
           <mxGeometry y="253" width="700" height="107" as="geometry" />
         </mxCell>
         <mxCell id="sKu4yoeBNKB5ariSwKYG-33" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-32">
-          <mxGeometry x="40" width="166" height="107" as="geometry">
-            <mxRectangle width="166" height="107" as="alternateBounds" />
+          <mxGeometry x="40" width="160" height="107" as="geometry">
+            <mxRectangle width="160" height="107" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-105" value="游戏核心玩法已确定，不同经验用户对核心玩法的看法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-33">
+          <mxGeometry width="160" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="sKu4yoeBNKB5ariSwKYG-34" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-32">
-          <mxGeometry x="206" width="164" height="107" as="geometry">
-            <mxRectangle width="164" height="107" as="alternateBounds" />
+          <mxGeometry x="200" width="170" height="107" as="geometry">
+            <mxRectangle width="170" height="107" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-134" value="1. 品类用户、非品类用户、IP/非IP用户（若有IP）&lt;br&gt;2. 核心玩法已完成，查看不同用户接受程度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-34">
+          <mxGeometry width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="sKu4yoeBNKB5ariSwKYG-35" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-32">
           <mxGeometry x="370" width="166" height="107" as="geometry">
             <mxRectangle width="166" height="107" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-135" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-35">
+          <mxGeometry y="1" width="166" height="106" as="geometry">
+            <mxRectangle width="166" height="106" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-136" value="1. 线上测试 + 问卷调研&lt;br&gt;2. 线下CE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-135">
+          <mxGeometry width="160" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="sKu4yoeBNKB5ariSwKYG-69" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-32">
           <mxGeometry x="536" width="164" height="107" as="geometry">
             <mxRectangle width="164" height="107" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sKu4yoeBNKB5ariSwKYG-78" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-23">
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-137" value="1. 不同游戏经验用户对核心玩法体验报告（数据+问卷）&lt;br&gt;2. 品类痛点&amp;amp;游戏创新点梳理，是否解决" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-69">
+          <mxGeometry width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-78" value="商业化测试" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-23">
           <mxGeometry y="360" width="700" height="107" as="geometry" />
         </mxCell>
         <mxCell id="sKu4yoeBNKB5ariSwKYG-79" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-78">
-          <mxGeometry x="40" width="166" height="107" as="geometry">
-            <mxRectangle width="166" height="107" as="alternateBounds" />
+          <mxGeometry x="40" width="160" height="107" as="geometry">
+            <mxRectangle width="160" height="107" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sKu4yoeBNKB5ariSwKYG-80" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-78">
-          <mxGeometry x="206" width="164" height="107" as="geometry">
-            <mxRectangle width="164" height="107" as="alternateBounds" />
+          <mxGeometry x="200" width="170" height="107" as="geometry">
+            <mxRectangle width="170" height="107" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-106" value="核心玩法打磨完成，整个游戏的商业化框架测试，资源循环及拉收能力" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-80">
+          <mxGeometry x="-160" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-138" value="1. 品类用户、非品类用户、IP/非IP用户（若有IP）、付费用户、品类非付费用户&lt;br&gt;2. 商业化框架完成，测试不同付费习惯用户对商业化接受程度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-80">
+          <mxGeometry width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="sKu4yoeBNKB5ariSwKYG-81" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-78">
           <mxGeometry x="370" width="166" height="107" as="geometry">
             <mxRectangle width="166" height="107" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-139" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-81">
+          <mxGeometry width="166" height="107" as="geometry">
+            <mxRectangle width="166" height="107" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-140" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-139">
+          <mxGeometry y="1" width="166" height="106" as="geometry">
+            <mxRectangle width="166" height="106" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-141" value="1. 线上测试 + 问卷调研" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-140">
+          <mxGeometry width="160" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="sKu4yoeBNKB5ariSwKYG-82" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-78">
           <mxGeometry x="536" width="164" height="107" as="geometry">
             <mxRectangle width="164" height="107" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sKu4yoeBNKB5ariSwKYG-83" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-23">
-          <mxGeometry y="467" width="700" height="107" as="geometry" />
-        </mxCell>
-        <mxCell id="sKu4yoeBNKB5ariSwKYG-84" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-83">
-          <mxGeometry x="40" width="166" height="107" as="geometry">
-            <mxRectangle width="166" height="107" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sKu4yoeBNKB5ariSwKYG-85" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-83">
-          <mxGeometry x="206" width="164" height="107" as="geometry">
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-142" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-82">
+          <mxGeometry width="164" height="107" as="geometry">
             <mxRectangle width="164" height="107" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-143" value="1. 不同付费经验用户对商业化框架体验（数据+问卷）&lt;br&gt;2. 商业化深度挖掘报告&lt;br&gt;3. 商业化形式建议" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-142">
+          <mxGeometry width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-83" value="用户分层测试（多次）" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-23">
+          <mxGeometry y="467" width="700" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-84" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-83">
+          <mxGeometry x="40" width="160" height="123" as="geometry">
+            <mxRectangle width="160" height="123" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-85" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-83">
+          <mxGeometry x="200" width="170" height="123" as="geometry">
+            <mxRectangle width="170" height="123" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sKu4yoeBNKB5ariSwKYG-86" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-83">
+          <mxGeometry x="370" width="166" height="123" as="geometry">
+            <mxRectangle width="166" height="123" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-87" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-83">
+          <mxGeometry x="536" width="164" height="123" as="geometry">
+            <mxRectangle width="164" height="123" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-146" value="1. 初定义分层包数据报告&lt;br&gt;2. 全量用户反推大盘刷新分层&lt;br&gt;3. 公共包返回新分层+上线数据预测" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-87">
+          <mxGeometry width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-94" value="体验细节优化" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-23">
+          <mxGeometry y="590" width="700" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-95" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-94">
+          <mxGeometry x="40" width="160" height="107" as="geometry">
+            <mxRectangle width="160" height="107" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-107" value="游戏基础体验已确定，导入用户测试筛选核心/次核/泛核心用户属性差异，返回整体用户池量级情况" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-95">
+          <mxGeometry y="-107" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-147" value="通过每次测试数据分析进行游戏体验细节调优" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-95">
+          <mxGeometry width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-96" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-94">
+          <mxGeometry x="200" width="170" height="107" as="geometry">
+            <mxRectangle width="170" height="107" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-144" value="1. 项目初定义分层包测试&lt;br&gt;2. 导入试玩用户进行泛用户摸底" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-96">
+          <mxGeometry y="-107" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-148" value="1. 线上自由测试" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-96">
+          <mxGeometry width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-97" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-94">
           <mxGeometry x="370" width="166" height="107" as="geometry">
             <mxRectangle width="166" height="107" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sKu4yoeBNKB5ariSwKYG-87" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-83">
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-145" value="1. 线上导量测试&lt;br&gt;2. 大盘公共包测试" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-97">
+          <mxGeometry y="-107" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-149" value="1. 线上测试&lt;br&gt;2. 外部固定团队测试" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-97">
+          <mxGeometry width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-98" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-94">
           <mxGeometry x="536" width="164" height="107" as="geometry">
             <mxRectangle width="164" height="107" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-150" value="1. 流程体验细节分析报告&lt;br&gt;2. 具体品类重点设计拆解报告（资源循环+养成深度+玩家行为习惯等）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-98">
+          <mxGeometry width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-108" value="上线问题支持" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="250" width="460" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-109" value="上线新进" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-108">
+          <mxGeometry y="40" width="460" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-110" value="可能问题" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=20;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-109">
+          <mxGeometry x="40" width="140" height="126" as="geometry">
+            <mxRectangle width="140" height="126" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-111" value="解决方案" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=20;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-109">
+          <mxGeometry x="180" width="140" height="126" as="geometry">
+            <mxRectangle width="140" height="126" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-112" value="提前准备" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=20;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;rowspan=3;colspan=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-109">
+          <mxGeometry x="320" width="140" height="380" as="geometry">
+            <mxRectangle width="140" height="126" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-155" value="1. 上线前KPI预测（新进、留存、分层留存、流水等）&lt;br&gt;2. 玩家调研结果产出，前期流程问题" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-112">
+          <mxGeometry y="20" width="140" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-113" value="留存" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-108">
+          <mxGeometry y="166" width="460" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-114" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-113">
+          <mxGeometry x="40" width="140" height="128" as="geometry">
+            <mxRectangle width="140" height="128" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-115" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-113">
+          <mxGeometry x="180" width="140" height="128" as="geometry">
+            <mxRectangle width="140" height="128" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-116" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" visible="0" parent="sKu4yoeBNKB5ariSwKYG-113">
+          <mxGeometry x="320" width="140" height="128" as="geometry">
+            <mxRectangle width="140" height="128" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-117" value="商业化" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-108">
+          <mxGeometry y="294" width="460" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-118" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-117">
+          <mxGeometry x="40" width="140" height="126" as="geometry">
+            <mxRectangle width="140" height="126" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-119" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-117">
+          <mxGeometry x="180" width="140" height="126" as="geometry">
+            <mxRectangle width="140" height="126" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-120" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" visible="0" parent="sKu4yoeBNKB5ariSwKYG-117">
+          <mxGeometry x="320" width="140" height="126" as="geometry">
+            <mxRectangle width="140" height="126" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-121" value="长线运营支持" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="250" width="460" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-122" value="Actor 1" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-121">
+          <mxGeometry y="40" width="460" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-123" value="Phase 1" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-122">
+          <mxGeometry x="40" width="140" height="126" as="geometry">
+            <mxRectangle width="140" height="126" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-124" value="Phase 2" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-122">
+          <mxGeometry x="180" width="140" height="126" as="geometry">
+            <mxRectangle width="140" height="126" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-125" value="Phase 3" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-122">
+          <mxGeometry x="320" width="140" height="126" as="geometry">
+            <mxRectangle width="140" height="126" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-126" value="Actor 2" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-121">
+          <mxGeometry y="166" width="460" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-127" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-126">
+          <mxGeometry x="40" width="140" height="128" as="geometry">
+            <mxRectangle width="140" height="128" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-128" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-126">
+          <mxGeometry x="180" width="140" height="128" as="geometry">
+            <mxRectangle width="140" height="128" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-129" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-126">
+          <mxGeometry x="320" width="140" height="128" as="geometry">
+            <mxRectangle width="140" height="128" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-130" value="Actor 3" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-121">
+          <mxGeometry y="294" width="460" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-131" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-130">
+          <mxGeometry x="40" width="140" height="126" as="geometry">
+            <mxRectangle width="140" height="126" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-132" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-130">
+          <mxGeometry x="180" width="140" height="126" as="geometry">
+            <mxRectangle width="140" height="126" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sKu4yoeBNKB5ariSwKYG-133" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="sKu4yoeBNKB5ariSwKYG-130">
+          <mxGeometry x="320" width="140" height="126" as="geometry">
+            <mxRectangle width="140" height="126" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
