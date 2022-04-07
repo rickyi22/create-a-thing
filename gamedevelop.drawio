@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-07T02:58:16.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="KPrA-KwcUuhFxrnHfdpE" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-07T03:29:05.898Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="OhWCDUWvjCcNAY_p4rt5" version="17.4.0" type="github">
   <diagram id="2WVnzMi29hjiY_BOukuQ" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
             <mxRectangle width="107" height="66" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ogIsCl1URO6krtaQm-VF-15" value="1-2年后仍旧火热的品类" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-13">
+        <mxCell id="ogIsCl1URO6krtaQm-VF-15" value="1-2年后仍旧火热的品类，目标用户调研" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-13">
           <mxGeometry x="107" width="106" height="66" as="geometry">
             <mxRectangle width="106" height="66" as="alternateBounds" />
           </mxGeometry>
@@ -144,12 +144,135 @@
         <mxCell id="ogIsCl1URO6krtaQm-VF-44" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-37">
           <mxGeometry y="196" width="212.5" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="ogIsCl1URO6krtaQm-VF-45" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#6c8ebf;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-44">
+        <mxCell id="ogIsCl1URO6krtaQm-VF-45" value="核心玩法框架，保障核心体验达到预期" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#6c8ebf;rowspan=1;colspan=2;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-44">
+          <mxGeometry width="213" height="66" as="geometry">
+            <mxRectangle width="107" height="66" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogIsCl1URO6krtaQm-VF-46" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" visible="0" parent="ogIsCl1URO6krtaQm-VF-44">
+          <mxGeometry x="107" width="106" height="66" as="geometry">
+            <mxRectangle width="106" height="66" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogIsCl1URO6krtaQm-VF-58" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="498.75" y="220" width="212.5" height="328" as="geometry" />
+        </mxCell>
+        <mxCell id="ogIsCl1URO6krtaQm-VF-59" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-58">
+          <mxGeometry width="212.5" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="ogIsCl1URO6krtaQm-VF-60" value="完整游戏设计" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#6c8ebf;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-59">
           <mxGeometry width="107" height="66" as="geometry">
             <mxRectangle width="107" height="66" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ogIsCl1URO6krtaQm-VF-46" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-44">
+        <mxCell id="ogIsCl1URO6krtaQm-VF-61" value="核心数值、商业化、体验等补充" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-59">
+          <mxGeometry x="107" width="106" height="66" as="geometry">
+            <mxRectangle width="106" height="66" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogIsCl1URO6krtaQm-VF-71" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-58">
+          <mxGeometry y="66" width="212.5" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="ogIsCl1URO6krtaQm-VF-72" value="剧情设定" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#6c8ebf;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-71">
+          <mxGeometry width="107" height="66" as="geometry">
+            <mxRectangle width="107" height="66" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogIsCl1URO6krtaQm-VF-73" value="游戏整体世界观框架、剧情设计" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-71">
+          <mxGeometry x="107" width="106" height="66" as="geometry">
+            <mxRectangle width="106" height="66" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogIsCl1URO6krtaQm-VF-62" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-58">
+          <mxGeometry y="132" width="212.5" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="ogIsCl1URO6krtaQm-VF-63" value="版本规划" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#6c8ebf;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-62">
+          <mxGeometry width="107" height="66" as="geometry">
+            <mxRectangle width="107" height="66" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogIsCl1URO6krtaQm-VF-64" value="机型要求、内容消耗速度、版本更新周期" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-62">
+          <mxGeometry x="107" width="106" height="66" as="geometry">
+            <mxRectangle width="106" height="66" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogIsCl1URO6krtaQm-VF-65" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-58">
+          <mxGeometry y="198" width="212.5" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="ogIsCl1URO6krtaQm-VF-66" value="技术需求" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#6c8ebf;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-65">
+          <mxGeometry width="107" height="64" as="geometry">
+            <mxRectangle width="107" height="64" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogIsCl1URO6krtaQm-VF-67" value="机型要求、多人承载能力、实时演算" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-65">
+          <mxGeometry x="107" width="106" height="64" as="geometry">
+            <mxRectangle width="106" height="64" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogIsCl1URO6krtaQm-VF-68" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-58">
+          <mxGeometry y="262" width="212.5" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="ogIsCl1URO6krtaQm-VF-69" value="初期beta版本，可进行对外测试；包括创新玩法、商业化尝试" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#6c8ebf;rowspan=1;colspan=2;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-68">
+          <mxGeometry width="213" height="66" as="geometry">
+            <mxRectangle width="107" height="66" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogIsCl1URO6krtaQm-VF-70" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" visible="0" parent="ogIsCl1URO6krtaQm-VF-68">
+          <mxGeometry x="107" width="106" height="66" as="geometry">
+            <mxRectangle width="106" height="66" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogIsCl1URO6krtaQm-VF-74" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="748.75" y="220" width="212.5" height="262" as="geometry" />
+        </mxCell>
+        <mxCell id="ogIsCl1URO6krtaQm-VF-75" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-74">
+          <mxGeometry width="212.5" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="ogIsCl1URO6krtaQm-VF-76" value="版本调优" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#6c8ebf;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-75">
+          <mxGeometry width="107" height="66" as="geometry">
+            <mxRectangle width="107" height="66" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogIsCl1URO6krtaQm-VF-77" value="结合数据、调研优化版本体验" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-75">
+          <mxGeometry x="107" width="106" height="66" as="geometry">
+            <mxRectangle width="106" height="66" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogIsCl1URO6krtaQm-VF-81" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-74">
+          <mxGeometry y="66" width="212.5" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="ogIsCl1URO6krtaQm-VF-82" value="上线方案" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#6c8ebf;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-81">
+          <mxGeometry width="107" height="66" as="geometry">
+            <mxRectangle width="107" height="66" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogIsCl1URO6krtaQm-VF-83" value="宣发节奏、目标用户打法、投放策略，上线预估" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-81">
+          <mxGeometry x="107" width="106" height="66" as="geometry">
+            <mxRectangle width="106" height="66" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogIsCl1URO6krtaQm-VF-84" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-74">
+          <mxGeometry y="132" width="212.5" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="ogIsCl1URO6krtaQm-VF-85" value="商业化" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#6c8ebf;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-84">
+          <mxGeometry width="107" height="64" as="geometry">
+            <mxRectangle width="107" height="64" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogIsCl1URO6krtaQm-VF-86" value="结合活动进行商业化形态设计，流水预估" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-84">
+          <mxGeometry x="107" width="106" height="64" as="geometry">
+            <mxRectangle width="106" height="64" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogIsCl1URO6krtaQm-VF-87" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-74">
+          <mxGeometry y="196" width="212.5" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="ogIsCl1URO6krtaQm-VF-88" value="版本打磨，对比同品类游戏制定上线标准" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#6c8ebf;rowspan=1;colspan=2;" vertex="1" parent="ogIsCl1URO6krtaQm-VF-87">
+          <mxGeometry width="213" height="66" as="geometry">
+            <mxRectangle width="107" height="66" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogIsCl1URO6krtaQm-VF-89" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" visible="0" parent="ogIsCl1URO6krtaQm-VF-87">
           <mxGeometry x="107" width="106" height="66" as="geometry">
             <mxRectangle width="106" height="66" as="alternateBounds" />
           </mxGeometry>
