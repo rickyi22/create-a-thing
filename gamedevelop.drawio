@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T08:49:21.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="EYvavQLD4ChGrw-UYq1C" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-11T08:52:32.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="riRSgvE0LiT2REZg_RGW" version="17.4.0" type="github">
   <diagram id="2WVnzMi29hjiY_BOukuQ" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -173,7 +173,7 @@
             <mxRectangle width="107" height="66" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ogIsCl1URO6krtaQm-VF-61" value="&lt;b&gt;核心数值、商业化、体验等补充&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="ogIsCl1URO6krtaQm-VF-59" vertex="1">
+        <mxCell id="ogIsCl1URO6krtaQm-VF-61" value="&lt;b&gt;核心数值、商业化等补充&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="ogIsCl1URO6krtaQm-VF-59" vertex="1">
           <mxGeometry x="107" width="106" height="66" as="geometry">
             <mxRectangle width="106" height="66" as="alternateBounds" />
           </mxGeometry>
@@ -181,12 +181,12 @@
         <mxCell id="jGIM9rKtjmwTjKUxYOIV-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1" vertex="1" parent="ogIsCl1URO6krtaQm-VF-58">
           <mxGeometry y="66" width="212.5" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="jGIM9rKtjmwTjKUxYOIV-3" value="关卡、系统设计" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#6c8ebf;" vertex="1" parent="jGIM9rKtjmwTjKUxYOIV-2">
+        <mxCell id="jGIM9rKtjmwTjKUxYOIV-3" value="关卡/系统设计" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#6c8ebf;" vertex="1" parent="jGIM9rKtjmwTjKUxYOIV-2">
           <mxGeometry width="107" height="66" as="geometry">
             <mxRectangle width="107" height="66" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jGIM9rKtjmwTjKUxYOIV-4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="jGIM9rKtjmwTjKUxYOIV-2">
+        <mxCell id="jGIM9rKtjmwTjKUxYOIV-4" value="游戏玩法内容填充，丰富玩法体验" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="jGIM9rKtjmwTjKUxYOIV-2">
           <mxGeometry x="107" width="106" height="66" as="geometry">
             <mxRectangle width="106" height="66" as="alternateBounds" />
           </mxGeometry>
