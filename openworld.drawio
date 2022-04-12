@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T03:35:12.945Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" version="17.4.0" etag="VPw8AELL7pjIZMm21PAY" type="github"><diagram id="AOJhjXBNwnViWs2GPNID">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-12T03:37:17.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="qFmDkhcMurvMpIDfIGjD" version="17.4.0" type="github">
+  <diagram id="AOJhjXBNwnViWs2GPNID" name="Page-1">
+    <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HnYU0acO4vSNHPghmum4-1" value="&lt;h1&gt;开放世界&lt;/h1&gt;&lt;p&gt;自由探索、沉浸感、伴随收获&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="100" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HnYU0acO4vSNHPghmum4-2" value="&lt;h1&gt;&lt;span&gt;MMO&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;明确数值目标追求、多人社交、炫耀属性&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="100" width="190" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
