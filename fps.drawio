@@ -1,14 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T03:56:16.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="n9_udhwQ4rDrIM47vcAW" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-09T07:14:19.859Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="B6ustK5ZjVUQg4muaGTJ" version="18.0.7" type="github">
   <diagram id="Rj2s-kixMUSWodtxgQM7" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vcBT5IzPm3kqgC35FbHy-1" target="vcBT5IzPm3kqgC35FbHy-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="335" />
+              <mxPoint x="670" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vcBT5IzPm3kqgC35FbHy-1" target="vcBT5IzPm3kqgC35FbHy-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="335" />
+              <mxPoint x="670" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vcBT5IzPm3kqgC35FbHy-1" target="vcBT5IzPm3kqgC35FbHy-74">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="335" />
+              <mxPoint x="670" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vcBT5IzPm3kqgC35FbHy-1" target="vcBT5IzPm3kqgC35FbHy-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="335" />
+              <mxPoint x="670" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vcBT5IzPm3kqgC35FbHy-1" value="吃鸡FPS数据分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="310" width="120" height="50" as="geometry" />
+          <mxGeometry x="517" y="310" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vcBT5IzPm3kqgC35FbHy-2" value="吃鸡FPS手游差异化对比" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="110" width="400" height="550" as="geometry" />
+          <mxGeometry x="80" y="110" width="400" height="550" as="geometry" />
         </mxCell>
         <mxCell id="vcBT5IzPm3kqgC35FbHy-3" value="画风" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-2">
           <mxGeometry y="40" width="400" height="90" as="geometry" />
@@ -177,6 +209,144 @@
         </mxCell>
         <mxCell id="vcBT5IzPm3kqgC35FbHy-56" value="建筑系统较复杂&lt;br&gt;交火容易僵持被围观" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-42">
           <mxGeometry y="50" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vcBT5IzPm3kqgC35FbHy-60" target="vcBT5IzPm3kqgC35FbHy-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vcBT5IzPm3kqgC35FbHy-60" target="vcBT5IzPm3kqgC35FbHy-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-60" value="游戏宏观数据" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="50" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-62" value="新进、活跃、留存、arpu、在线时长等" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="20" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-64" value="分平台/渠道数据表现" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="70" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vcBT5IzPm3kqgC35FbHy-67" target="vcBT5IzPm3kqgC35FbHy-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vcBT5IzPm3kqgC35FbHy-67" target="vcBT5IzPm3kqgC35FbHy-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-67" value="用户基础数据" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="131" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-69" value="用户画像分析/调研等（目标用户属性）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="121" width="190" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-71" value="用户聚类（玩法偏好、社交偏好）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="171" width="190" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vcBT5IzPm3kqgC35FbHy-74" target="vcBT5IzPm3kqgC35FbHy-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vcBT5IzPm3kqgC35FbHy-74" target="vcBT5IzPm3kqgC35FbHy-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-74" value="FPS特性分析" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="630" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vcBT5IzPm3kqgC35FbHy-75" target="vcBT5IzPm3kqgC35FbHy-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vcBT5IzPm3kqgC35FbHy-75" target="vcBT5IzPm3kqgC35FbHy-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-75" value="游戏平衡性" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="460" width="190" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vcBT5IzPm3kqgC35FbHy-76" target="vcBT5IzPm3kqgC35FbHy-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vcBT5IzPm3kqgC35FbHy-76" target="vcBT5IzPm3kqgC35FbHy-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-76" value="单局游戏节奏" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="660" width="190" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vcBT5IzPm3kqgC35FbHy-80" target="vcBT5IzPm3kqgC35FbHy-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vcBT5IzPm3kqgC35FbHy-80" target="vcBT5IzPm3kqgC35FbHy-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-80" value="商业化" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="300" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-81" value="付费R级分布" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="230" width="190" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-82" value="各R级付费点及倾向" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="280" width="190" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-83" value="BP购买率及任务完成情况" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="330" width="190" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-84" value="英雄/外显等获取使用数据" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="380" width="190" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-96" value="玩家段位分布及变化" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="420" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-100" value="各段位英雄/武器使用率/胜率" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="460" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-101" value="各段位英雄组合使用率/胜率" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="499" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-102" value="各段位平均游戏时长" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="590" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-103" value="各段位队均击杀/死亡/伤害量等" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="630" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-104" value="玩家首次遇敌时间" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="669" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-105" value="玩家跑毒/交火数据" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="710" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-106" value="地图活跃行为分布" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="540" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-111" value="1. 核心用户是谁？核心用户中细分不同的玩法习惯，创新玩法尝试&lt;br&gt;&lt;br&gt;2. 合适的赛季周期时间，轮换地图，替换模式等，避免过长平台期&lt;br&gt;&lt;br&gt;3.玩家流失、回流原因分析，减少日常流失，依靠赛季/版本吸引新玩家和回流玩家" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="30" width="240" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-113" value="1. 不同玩家对游戏商业化的接受程度，确定核心拉收手段&lt;br&gt;&lt;br&gt;2. 核心商业化BP优化，尽可能符合玩家游玩习惯" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="259" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-114" value="1. 保持武器/职业/队伍选择多样化，防止单一最优解&lt;br&gt;&lt;br&gt;2. 通过平衡性调整保障近/中/远距离交替战斗&lt;br&gt;&lt;br&gt;3. 防止出现地图绝对有利地形" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="440" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vcBT5IzPm3kqgC35FbHy-115" target="vcBT5IzPm3kqgC35FbHy-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vcBT5IzPm3kqgC35FbHy-115" target="vcBT5IzPm3kqgC35FbHy-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-115" value="匹配机制" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="829" width="190" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-117" value="1. 保障收集资源-冲突-收集战利品-冲突的间歇战斗体验，避免玩家丢失心流&lt;br&gt;&lt;br&gt;2. 控制玩家遇敌节奏，防止出现过长的收集资源/跑毒时间，影响游戏体验&lt;br&gt;&lt;br&gt;3. 鼓励玩家间冲突，减少苟吃鸡的体验" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="590" width="190" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-119" value="段位吃鸡玩家场均击杀" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="750" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-121" value="各段位玩家前三/吃鸡率监控" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="799" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-122" value="各段位玩家连续末尾淘汰监控" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="840" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-125" value="监控为主，防止出现较差连续出局游戏体验" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="799" width="190" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-126" value="各段位对局等级、近期场均伤害、击杀数" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="880" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
