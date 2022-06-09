@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T07:14:19.859Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="B6ustK5ZjVUQg4muaGTJ" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-09T07:20:41.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="Ww4DQiFcLX3QTA5afhzS" version="18.0.7" type="github">
   <diagram id="Rj2s-kixMUSWodtxgQM7" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -243,7 +243,7 @@
         <mxCell id="vcBT5IzPm3kqgC35FbHy-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vcBT5IzPm3kqgC35FbHy-74" target="vcBT5IzPm3kqgC35FbHy-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vcBT5IzPm3kqgC35FbHy-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vcBT5IzPm3kqgC35FbHy-74" target="vcBT5IzPm3kqgC35FbHy-115">
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vcBT5IzPm3kqgC35FbHy-74" target="vcBT5IzPm3kqgC35FbHy-129">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vcBT5IzPm3kqgC35FbHy-74" value="FPS特性分析" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -255,7 +255,7 @@
         <mxCell id="vcBT5IzPm3kqgC35FbHy-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vcBT5IzPm3kqgC35FbHy-75" target="vcBT5IzPm3kqgC35FbHy-106">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vcBT5IzPm3kqgC35FbHy-75" value="游戏平衡性" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-75" value="FPS游戏平衡性" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="460" width="190" height="39" as="geometry" />
         </mxCell>
         <mxCell id="vcBT5IzPm3kqgC35FbHy-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vcBT5IzPm3kqgC35FbHy-76" target="vcBT5IzPm3kqgC35FbHy-102">
@@ -264,7 +264,7 @@
         <mxCell id="vcBT5IzPm3kqgC35FbHy-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vcBT5IzPm3kqgC35FbHy-76" target="vcBT5IzPm3kqgC35FbHy-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vcBT5IzPm3kqgC35FbHy-76" value="单局游戏节奏" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-76" value="吃鸡单局游戏节奏" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="660" width="190" height="39" as="geometry" />
         </mxCell>
         <mxCell id="vcBT5IzPm3kqgC35FbHy-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vcBT5IzPm3kqgC35FbHy-80" target="vcBT5IzPm3kqgC35FbHy-81">
@@ -347,6 +347,27 @@
         </mxCell>
         <mxCell id="vcBT5IzPm3kqgC35FbHy-126" value="各段位对局等级、近期场均伤害、击杀数" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="880" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vcBT5IzPm3kqgC35FbHy-129" target="vcBT5IzPm3kqgC35FbHy-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vcBT5IzPm3kqgC35FbHy-129" target="vcBT5IzPm3kqgC35FbHy-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-129" value="游玩模式分析" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="940" width="190" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-130" value="各模式参与率及持续参与情况" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="920" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-131" value="各模式用户流转情况" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1000" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-132" value="各模式偏好用户分布" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="960" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-136" value="现有模式优缺点分析，通过玩家洗好进行创新模式研究" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="930" width="190" height="81" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
