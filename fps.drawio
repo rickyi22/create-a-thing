@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T03:42:37.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="uskL5fG_3XI9aEPI5pj_" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-09T03:56:16.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="n9_udhwQ4rDrIM47vcAW" version="18.0.7" type="github">
   <diagram id="Rj2s-kixMUSWodtxgQM7" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -147,8 +147,8 @@
         <mxCell id="vcBT5IzPm3kqgC35FbHy-50" value="搜刮后快速死亡&lt;br&gt;新手前期体验差" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-40">
           <mxGeometry x="10" y="10" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vcBT5IzPm3kqgC35FbHy-51" value="先手优势过大&lt;br&gt;整体节奏较慢" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-40">
-          <mxGeometry x="15" y="46" width="90" height="30" as="geometry" />
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-51" value="先手优势过大&lt;br&gt;地图设计导致中期慢" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-40">
+          <mxGeometry y="46" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vcBT5IzPm3kqgC35FbHy-57" value="重复对局体验差异不大" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-40">
           <mxGeometry x="-10" y="89" width="140" height="20" as="geometry" />
