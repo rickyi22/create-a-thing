@@ -1,1 +1,154 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T01:51:54.573Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" version="18.0.7" etag="VV2kMVnc_Q1Pwx_gzBMp" type="github"><diagram id="Rj2s-kixMUSWodtxgQM7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-09T03:25:54.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="OlpnN3ElOXbBVpI_7x9i" version="18.0.7" type="github">
+  <diagram id="Rj2s-kixMUSWodtxgQM7" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-1" value="射击游戏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-2" value="吃鸡FPS手游差异化对比" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="110" width="400" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-3" value="画风" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-2">
+          <mxGeometry y="40" width="400" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-4" value="pubgm" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-3">
+          <mxGeometry x="40" width="120" height="90" as="geometry">
+            <mxRectangle width="120" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-5" value="apexm" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-3">
+          <mxGeometry x="160" width="120" height="90" as="geometry">
+            <mxRectangle width="120" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-6" value="fortnite" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-3">
+          <mxGeometry x="280" width="120" height="90" as="geometry">
+            <mxRectangle width="120" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-36" value="写实拟真画风" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-6">
+          <mxGeometry x="-225" y="55" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-37" value="美式卡通画风" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-6">
+          <mxGeometry x="-105" y="55" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-38" value="欧美卡通画风" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-6">
+          <mxGeometry x="15" y="55" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-7" value="战斗节奏" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-2">
+          <mxGeometry y="130" width="400" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-8" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-7">
+          <mxGeometry x="40" width="120" height="70" as="geometry">
+            <mxRectangle width="120" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-9" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-7">
+          <mxGeometry x="160" width="120" height="70" as="geometry">
+            <mxRectangle width="120" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-15" value="短ttk，交战时间短&lt;br&gt;对位置、枪法要求高" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-9">
+          <mxGeometry x="-120" y="20" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-20" value="长ttk，交战时间长&lt;br&gt;对交火时策略要求高" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-9">
+          <mxGeometry y="20" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-21" value="长ttk，交战时间长&lt;br&gt;对资源储备要求高" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-9">
+          <mxGeometry x="125" y="20" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-10" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-7">
+          <mxGeometry x="280" width="120" height="70" as="geometry">
+            <mxRectangle width="120" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-11" value="新手体验" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-2">
+          <mxGeometry y="200" width="400" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-12" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-11">
+          <mxGeometry x="40" width="120" height="110" as="geometry">
+            <mxRectangle width="120" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-22" value="死亡无法复活且死亡快&lt;br&gt;对新手挫败感较强" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-12">
+          <mxGeometry x="-10" y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-33" value="前期枪法策略不熟悉&lt;br&gt;对团队作用小" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-12">
+          <mxGeometry y="20" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-13" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-11">
+          <mxGeometry x="160" width="120" height="110" as="geometry">
+            <mxRectangle width="120" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-23" value="长ttk有反应空间，&lt;br&gt;前期死亡后可复活" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-13">
+          <mxGeometry x="5" y="60" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-34" value="区分职业设计&lt;br&gt;角色均对团队有贡献" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-13">
+          <mxGeometry x="2" y="19" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-14" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-11">
+          <mxGeometry x="280" width="120" height="110" as="geometry">
+            <mxRectangle width="120" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-35" value="建造系统较复杂&lt;br&gt;新玩家上手门槛高" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-14">
+          <mxGeometry x="5" y="14" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-43" value="长ttk有反应空间&lt;br&gt;死亡后无复活" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-14">
+          <mxGeometry x="10" y="60" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-29" value="特色设计" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-2">
+          <mxGeometry y="310" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-30" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-29">
+          <mxGeometry x="40" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-44" value="拟真类射击游戏&lt;br&gt;枪械后座力强&lt;br&gt;可精通空间大" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-30">
+          <mxGeometry x="10" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-45" value="短ttk导致地形&lt;br&gt;信息差更重要&lt;br&gt;突出战斗快节奏" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-30">
+          <mxGeometry x="10" y="60" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-31" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-29">
+          <mxGeometry x="160" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-46" value="moba职业设计&lt;br&gt;不同队伍间策略差别大&lt;br&gt;队伍配合多样性大" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-31">
+          <mxGeometry x="-10" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-47" value="战斗纵向维度大&lt;br&gt;交战时的策略选择更多" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-31">
+          <mxGeometry x="-10" y="70" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-32" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-29">
+          <mxGeometry x="280" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-39" value="缺点" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-2">
+          <mxGeometry y="430" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-40" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-39">
+          <mxGeometry x="40" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-41" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-39">
+          <mxGeometry x="160" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vcBT5IzPm3kqgC35FbHy-42" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="vcBT5IzPm3kqgC35FbHy-39">
+          <mxGeometry x="280" width="120" height="120" as="geometry">
+            <mxRectangle width="120" height="120" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
