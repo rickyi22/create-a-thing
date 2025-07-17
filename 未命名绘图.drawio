@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nNLNMEBFhKgfUB6wOT8u-22" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;战斗结算&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;新增一个节点, 在副本胜利/失败时上报, 防止玩家胜利/失败后杀进程后续取不到&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="725" y="760" width="110" height="130" as="geometry" />
+          <mxGeometry x="725" y="740" width="110" height="130" as="geometry" />
         </mxCell>
         <mxCell id="nNLNMEBFhKgfUB6wOT8u-23" value="RoundFinishFlow" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="630" width="100" height="90" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nNLNMEBFhKgfUB6wOT8u-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;上报节点保持不变&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;副本内在退出副本前掉线/杀进程不会有上报&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="760" width="110" height="130" as="geometry" />
+          <mxGeometry x="935" y="740" width="110" height="130" as="geometry" />
         </mxCell>
         <mxCell id="nNLNMEBFhKgfUB6wOT8u-26" value="胜利剥取素材" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="520" width="100" height="90" as="geometry" />
