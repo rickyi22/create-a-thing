@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.5">
   <diagram name="第 1 页" id="U9Kb6-skORSJLm9PJqpz">
-    <mxGraphModel dx="2066" dy="1111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1722" dy="926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
         <mxCell id="nNLNMEBFhKgfUB6wOT8u-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.829;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nNLNMEBFhKgfUB6wOT8u-9" target="nNLNMEBFhKgfUB6wOT8u-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nNLNMEBFhKgfUB6wOT8u-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;队伍组建成功且出发&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;几人队伍上报几人&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nNLNMEBFhKgfUB6wOT8u-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;队伍组建成功且出发&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;按队伍人数上报&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="15" y="230" width="110" height="130" as="geometry" />
         </mxCell>
         <mxCell id="nNLNMEBFhKgfUB6wOT8u-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;loading完进入副本&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;loading过程掉线玩家不会上报&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -38,34 +38,43 @@
           <mxGeometry x="930" y="230" width="110" height="130" as="geometry" />
         </mxCell>
         <mxCell id="nNLNMEBFhKgfUB6wOT8u-15" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;迭代后流程&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="15" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="15" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nNLNMEBFhKgfUB6wOT8u-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;上报节点保持不变&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;1. enumteamingresult是否包含一带三AI, 以及是否会包含后续补位AI?&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;2. 需要新增一个队伍真人数?&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nNLNMEBFhKgfUB6wOT8u-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;上报节点保持不变&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;1. enumteamingresult是否包含一带三AI, 以及是否会包含后续补位AI&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;2. 需要新增一个队伍真人数&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="630" width="110" height="210" as="geometry" />
         </mxCell>
         <mxCell id="nNLNMEBFhKgfUB6wOT8u-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;上报节点保持不变&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;1. 需要增加补位AI的上报 (玩家侧感知队伍人数)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;2. 需要新增一个AITYPE字段, 区分真人/补位AI/后续可能的强化AI等&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="630" width="110" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="nNLNMEBFhKgfUB6wOT8u-20" value="RoundEndFlow" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nNLNMEBFhKgfUB6wOT8u-20" value="RoundEndFlow" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="730" y="630" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="nNLNMEBFhKgfUB6wOT8u-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.65;entryY=0.78;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nNLNMEBFhKgfUB6wOT8u-20" target="nNLNMEBFhKgfUB6wOT8u-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nNLNMEBFhKgfUB6wOT8u-22" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;战斗结算&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;新增一个节点, 在副本胜利/失败时上报, 防止玩家胜利/失败后杀进程后续取不到&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="725" y="740" width="110" height="130" as="geometry" />
+        <mxCell id="nNLNMEBFhKgfUB6wOT8u-22" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;战斗结算&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;新增一个节点, 在副本胜利/失败时上报, 防止玩家胜利/失败后杀进程后续取不到结算日志&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;1. 增加掉线接管AI标识, 该节点时玩家仍是掉线AI接管状态则上报roundresult为掉线,&lt;/span&gt;&lt;span style=&quot;font-size: 13px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(掉线接管玩家信息仍为真人信息)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707.5" y="740" width="145" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="nNLNMEBFhKgfUB6wOT8u-23" value="RoundFinishFlow" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nNLNMEBFhKgfUB6wOT8u-23" value="RoundFinishFlow" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="940" y="630" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="nNLNMEBFhKgfUB6wOT8u-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.829;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nNLNMEBFhKgfUB6wOT8u-23" target="nNLNMEBFhKgfUB6wOT8u-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nNLNMEBFhKgfUB6wOT8u-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;上报节点保持不变&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;副本内在退出副本前掉线/杀进程不会有上报&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="935" y="740" width="110" height="130" as="geometry" />
+        <mxCell id="nNLNMEBFhKgfUB6wOT8u-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;上报节点保持不变&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;副本内在退出副本前掉线/杀进程不会有上报&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;1. 增加掉线接管AI标识, 该节点时玩家仍是掉线AI接管状态则上报&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;上报roundresult为掉线&lt;/span&gt;&lt;span style=&quot;font-size: 13px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(掉线接管玩家信息仍为真人信息)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2. BD信息提前到战斗结算上报&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="912.5" y="740" width="155" height="230" as="geometry" />
         </mxCell>
         <mxCell id="nNLNMEBFhKgfUB6wOT8u-26" value="胜利剥取素材" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="520" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nNLNMEBFhKgfUB6wOT8u-27" value="BattleStartFlow" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="360" y="630" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nNLNMEBFhKgfUB6wOT8u-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.333;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nNLNMEBFhKgfUB6wOT8u-27" target="nNLNMEBFhKgfUB6wOT8u-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nNLNMEBFhKgfUB6wOT8u-29" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;战斗开始&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;新增一个节点, 在战斗开始上报(仇恨检测), 防止玩家进入战斗后杀进程并不知道玩家进入过战斗(统计初次挑战胜率)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;1. 副本和大世界中均需要上报, 上报信息仅包含玩家信息, 龙信息, 对应Roundserial (待讨论由服务器还是客户端上报)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="740" width="145" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
